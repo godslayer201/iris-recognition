@@ -27,8 +27,7 @@ http://www.robots.ox.ac.uk/~vgg/data/flowers/102/index.html
 * Inference is done by : [inference.py](https://github.com/souravs17031999/FLOWER-CLASSIFIER-WEBAPP/blob/master/inference.py)         
 ![resnet152infer](/static/inference.gif)     
 
-## Complete flow :    
-![model](/static/model.gif)   
+ 
 
 
 ## Run on windows - 
